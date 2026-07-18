@@ -1,0 +1,72 @@
+KeyU 서버 무료 사용권 계약 (KeyU Server Freeware License)
+Copyright (c) 2026 umaking. All rights reserved.
+
+본 저장소로 배포되는 KeyU 서버 실행파일(macOS .dmg / Windows .exe, 이하 "소프트웨어")에는
+아래 조건이 적용됩니다. 소프트웨어를 다운로드·설치·사용하면 본 조건에 동의한 것으로 봅니다.
+
+1. 사용 허가
+   - 소프트웨어는 무료입니다. 개인·업무 목적을 불문하고 대수 제한 없이
+     설치·사용할 수 있습니다.
+   - 백업 목적의 복제는 허용됩니다.
+
+2. 제한
+   - 소프트웨어의 재배포(웹사이트·저장소·번들 동봉 등)는 허용되지 않습니다.
+     공유가 필요하면 본 저장소의 공식 릴리스 페이지 링크를 사용해 주세요.
+   - 소프트웨어의 판매·유상 제공, 수정, 2차적 저작물 작성, 역컴파일·역어셈블·
+     역공학은 허용되지 않습니다(관련 법이 명시적으로 허용하는 범위는 예외).
+   - 저작권 표시 및 본 사용권 문서를 제거하거나 변경할 수 없습니다.
+
+3. 오픈소스 구성요소
+   - 소프트웨어는 오픈소스 구성요소를 포함하며, 각 구성요소는 자체 라이선스를
+     따릅니다. 목록은 THIRD-PARTY-NOTICES.md 를 참조하세요.
+
+4. 무보증
+   - 소프트웨어는 "있는 그대로(AS IS)" 제공되며, 상품성·특정 목적 적합성·비침해를
+     포함한 어떠한 명시적·묵시적 보증도 하지 않습니다.
+
+5. 책임 제한
+   - 관련 법이 허용하는 최대 범위에서, 저작권자는 소프트웨어의 사용 또는 사용 불능으로
+     발생하는 어떠한 손해(데이터 손실, 업무 중단, 이익 손실 등)에 대해서도 책임지지
+     않습니다.
+
+6. 기타
+   - 본 문서의 한국어본이 정본이며, 아래 영어본은 이해를 돕기 위한 참고 번역입니다.
+
+----------------------------------------------------------------------
+
+KeyU Server Freeware License (English translation, for reference —
+the Korean text above is authoritative)
+Copyright (c) 2026 umaking. All rights reserved.
+
+The KeyU Server binaries distributed in this repository (macOS .dmg /
+Windows .exe, the "Software") are provided under the following terms.
+By downloading, installing, or using the Software you agree to them.
+
+1. Grant
+   - The Software is free of charge. You may install and use it on any
+     number of devices, for personal or business purposes.
+   - Copies for backup purposes are permitted.
+
+2. Restrictions
+   - Redistribution of the Software (via websites, repositories, bundles,
+     etc.) is not permitted. To share it, link to the official Releases
+     page of this repository instead.
+   - Selling, modifying, creating derivative works, decompiling,
+     disassembling, or reverse engineering the Software is not permitted,
+     except to the extent expressly allowed by applicable law.
+   - Copyright notices and this license must not be removed or altered.
+
+3. Open-source components
+   - The Software includes open-source components, each governed by its
+     own license. See THIRD-PARTY-NOTICES.md for the list.
+
+4. No warranty
+   - The Software is provided "AS IS", without warranty of any kind,
+     express or implied, including merchantability, fitness for a
+     particular purpose, and non-infringement.
+
+5. Limitation of liability
+   - To the maximum extent permitted by law, the copyright holder shall
+     not be liable for any damages arising from the use of or inability
+     to use the Software (including loss of data, business interruption,
+     or lost profits).
