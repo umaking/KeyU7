@@ -13,8 +13,8 @@ PC의 입력 장치가 됩니다. 모든 통신은 로컬 네트워크 안에서
 
 | 플랫폼 | 파일 | 요구 사항 |
 |---|---|---|
-| macOS (Apple Silicon) | `KeyU 서버_<버전>_aarch64.dmg` | 손쉬운 사용(Accessibility) 권한 |
-| Windows x64 | `KeyU 서버_<버전>_x64-setup.exe` | Windows 10 이상 64비트 |
+| macOS (Apple Silicon) | `KeyU Desktop_<버전>_aarch64.dmg` | 손쉬운 사용(Accessibility) 권한 |
+| Windows x64 | `KeyU Desktop_<버전>_x64-setup.exe` | Windows 10 이상 64비트 |
 
 무결성 확인: 각 릴리스에 첨부된 `SHA256SUMS`와 대조하세요.
 `shasum -a 256 <파일>` (macOS) / `certutil -hashfile <파일> SHA256` (Windows)
@@ -70,8 +70,8 @@ Get the latest build from the **[Releases](releases)** page.
 
 | Platform | File | Requirements |
 |---|---|---|
-| macOS (Apple Silicon) | `KeyU 서버_<version>_aarch64.dmg` | Accessibility permission |
-| Windows x64 | `KeyU 서버_<version>_x64-setup.exe` | Windows 10+ (64-bit) |
+| macOS (Apple Silicon) | `KeyU Desktop_<version>_aarch64.dmg` | Accessibility permission |
+| Windows x64 | `KeyU Desktop_<version>_x64-setup.exe` | Windows 10+ (64-bit) |
 
 Verify downloads against the `SHA256SUMS` file attached to each release.
 
